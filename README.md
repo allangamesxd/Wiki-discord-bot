@@ -25,3 +25,7 @@ Após isso digite "npm install discord.js" na caixa que vai aparecer no canto in
 ![image](https://user-images.githubusercontent.com/100823318/159029752-3d7a0f3f-d195-4bb9-aaad-c21e05f1b5a2.png)
 
 E pronto! você ja instalou discord.js v13 no Visual Studio Code
+
+# Como ligo o meu bot?
+
+Aperte a tecla F5 e espere até ele ficar on (Tempo estimado: 4 segundos) aperte Ctrl + Shift + Y para saber quando ele fica online
