@@ -9,3 +9,9 @@ Os codigos foram feitos para  serem usados no visual code, se quiser usar na rep
 # Como sempre...
 
 Se tiver alguma dúvida fale comigo pelo discord allangamesxd#6376
+
+# Como baixar discord.js?
+
+Clique em "Terminal"
+
+<img src="https://allangamesxd.sirv.com/Tutorial%20github%201.jpg" width="1024" height="734" alt="" />
