@@ -6,6 +6,9 @@ Escolha acima o código!
 
 Os codigos foram feitos para  serem usados no visual code, se quiser usar na replit, use o uptimerobot e express(Que não serão mostrados ou usados aqui) procure no youtube como deixar seu bot 24 horas on pela replit
 
+# Handler
+Crie uma pasta chamada commands nela serão guardados os comandos
+
 # Como sempre...
 
 Se tiver alguma dúvida fale comigo pelo discord allangamesxd#6376
