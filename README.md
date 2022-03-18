@@ -15,3 +15,11 @@ Se tiver alguma dúvida fale comigo pelo discord allangamesxd#6376
 Clique em "Terminal"
 
 <img src="https://allangamesxd.sirv.com/Tutorial%20github%201.jpg" width="1024" height="734" alt="" />
+
+Dps em "novo terminal"
+
+<img src="https://allangamesxd.sirv.com/Tutorial%20github%202.jpeg" width="1024" height="728" alt="" />
+
+Após isso digite "npm install discord.js" na caixa que vai aparecer no canto inferior da tela
+
+![image](https://user-images.githubusercontent.com/100823318/159029752-3d7a0f3f-d195-4bb9-aaad-c21e05f1b5a2.png)
