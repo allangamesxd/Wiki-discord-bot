@@ -1,5 +1,0 @@
-$message
-$allowMention
-$deletecommand
-$onlyPerms[managemessages;:x: Você não tem permissão para isso]
-$argsCheck[>1;:x: Escreva um texto ao lado do comando ex. `(prefixo)say {texto}`]
