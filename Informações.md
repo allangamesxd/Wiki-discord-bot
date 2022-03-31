@@ -1,6 +1,6 @@
 # discord.js
 
-Escolha acima o código!
+Clique em Code e escolha um comando
 
 # Aviso
 
