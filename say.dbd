@@ -1,0 +1,7 @@
+$nomention
+$message
+$allowMention
+$argsCheck[escreva algo ao lado do comando ex. `(prefixo)say texto`]
+$onlyPerms[managemessage;Você prescisa da permissão de `GERENCIAR MENSAGENS` para usar esse comando]
+$onlyBotPerms[managemessages;Eu presciso da permissão de `GERENCIAR MENSAGENS` para executar esse comando]
+$deletecommand
