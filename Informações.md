@@ -1,12 +1,7 @@
-# Info
+# dbd
 
-Aqui vou mostrar meus codigos aoi.js, dbd e discord.js pegue os códigos que quiser
-para começar clique em "main" e escolha uma linguagem de programação
+Clique em Code e escolha um comando
 
-# Lembrando
+# Como sempre...
 
-Esse tutorial está sendo feito ainda
-
-# Link do meu servidor
-
-https://discord.gg/CgwM8EMZ8X
+Se tiver alguma dúvida fale comigo pelo discord allangamesxd#6376
